@@ -8,7 +8,9 @@
 
 Create a new environment
 
-'''
+```
 conda create -n Nose python=3.9 -y
-'''
+conda activate Nose
+pip install -r requirements.txt
+```
 
